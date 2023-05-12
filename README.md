@@ -15,7 +15,7 @@
 So_long is a project at 42 School that involves creating a 2D game using the **MLX42** graphics library.
 
 <p align="center">
- <img width="600" height="600" src="https://github.com/erigolon/so_long/blob/master/extra/Screen%20Shot%202023-05-12%20at%201.21.20%20PM.png">
+ <img width="500" height="500" src="https://github.com/erigolon/so_long/blob/master/extra/Screen%20Shot%202023-05-12%20at%201.21.20%20PM.png">
 </p>
 
 The game is a simple maze where the player has to collect all the **collectibles** before reaching the exit, while avoiding **obstacles** such as walls and enemies.
