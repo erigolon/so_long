@@ -14,9 +14,17 @@
 
 So_long is a project at 42 School that involves creating a 2D game using the **MLX42** graphics library.
 
+<p align="center">
+ <img src="https://github.com/erigolon/so_long/blob/master/extra/Screen%20Shot%202023-05-12%20at%201.21.20%20PM.png">
+</p>
+
 The game is a simple maze where the player has to collect all the **collectibles** before reaching the exit, while avoiding **obstacles** such as walls and enemies.
 
 The project requires the use of **input/output, memory allocation**, and **basic algorithms** such as **BFS** (breadth-first search) for pathfinding.
+
+<p align="center">
+ <img src="https://github.com/erigolon/so_long/blob/master/extra/Screen%20Shot%202023-05-12%20at%201.21.55%20PM.png">
+</p>
 
 The game must be able to handle various error cases, such as incorrect maps or missing resources, and provide appropriate error messages to the user.
 
